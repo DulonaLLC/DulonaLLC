@@ -1,8 +1,6 @@
 <h1 align="center">Hi, we are Dulona LLC</h1>
-- 📫 You can reach us at our e-mail address **support@dulona.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with us:</h3>
+<p align="center">
 <a href="https://discord.gg/https://discord.gg/cjKEzG8KCq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cjKEzG8KCq" height="30" width="40" /></a>
 </p>
 
